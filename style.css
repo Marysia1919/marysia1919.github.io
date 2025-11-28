@@ -1,0 +1,13 @@
+p{
+color:darkslategray;
+font-size: x-large;
+font-family: 'Times New Roman', Times, serif;
+
+}
+body{ 
+
+max-width: 800px;
+margin:auto;
+background-color:darkgray;
+background-image:url(mur-getta.jfif);
+}
