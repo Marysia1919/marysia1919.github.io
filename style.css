@@ -11,3 +11,10 @@ margin:auto;
 background-color:darkgray;
 background-image:url(mur-getta.jfif);
 }
+
+div
+
+{
+    padding: 20px;
+    background-color:darkseagreen;
+}
